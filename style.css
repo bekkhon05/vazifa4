@@ -360,3 +360,38 @@
     justify-content: center;
 }
 
+
+
+
+
+
+.food {
+    width: 100%;
+    height: auto;
+    background-color: #f9f9ff;
+    padding: 90px 0;
+
+}
+
+.food-rex {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+}
+
+.food-der {
+    display: flex;
+    justify-content: center;
+}
+
+.food-red {
+    /* margin-top: -100px; */
+    position: relative;
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 95%;
+}
+
+.food-ter {
+    font-family: "Poppins", sans-serif;
+}
